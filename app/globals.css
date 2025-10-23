@@ -209,18 +209,7 @@
   }
 }
 
-@keyframes cell-ripple {
-  0% {
-    opacity: 0.4;
-  }
-  50% {
-    opacity: 0.8;
-  }
-  100% {
-    opacity: 0.4;
-  }
-}@k
-eyframes star-movement-bottom {
+@keyframes star-movement-bottom {
   0% {
     transform: translate(0%, 0%);
     opacity: 1;
